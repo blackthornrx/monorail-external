@@ -1,0 +1,6 @@
+RECOUNT_INPUT=/container-mounts/recount/input
+RECOUNT_OUTPUT=/container-mounts/recount/output
+RECOUNT_REF=/container-mounts/recount/ref
+RECOUNT_TEMP=/container-mounts/recount/temp
+RECOUNT_TEMP_BIG=/container-mounts/recount/temp_big
+RECOUNT_CPUS=4 # Can modify based on execution variable
